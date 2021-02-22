@@ -3,7 +3,7 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-FIXME: home page introduction
+This workshop has teaching materials for a 2-day, hands-on Introduction to single-cell RNA-seq analysis workshop.  
 
 <!-- this is an html comment -->
 
@@ -11,7 +11,9 @@ FIXME: home page introduction
 
 > ## Prerequisites
 >
-> FIXME
+> Comfortable using R and tidyverse
+> Comfortable using the command Line
+> No prior knowledge of RNA-seq is required
 {: .prereq}
 
 {% include links.md %}
